@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Loqonu dəyiş: assets/logo.png -->
-  <img src="./assets/logo.com.png" width="120" alt="CyberShieldy Logo" />
+  <img src="./assets/logo.com.png" width="420" alt="CyberShieldy Logo" />
 </p>
 
 <h1 align="center">
